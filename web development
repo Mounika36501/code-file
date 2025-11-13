@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="utf-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>BookSmith | Online Book Renting</title>
+<link rel="icon" href="images/icon.png">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" media="all" type="text/css">
+<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="owl-carousel/owl.carousel.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body id="page-top" class="index-page">
+<div class="wrap-body">
+<header>
+<div class="main-header">
+<nav id="menu" class="navbar ">
+<div class="container-fluid">
+<div class="navbar-header">
+<button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" datatarget=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
+<a class="navbar-brand" href="index.html">
+<img src="images/black-lg.png" width="350px">
+</a>
+</div>
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<ul class="nav navbar-nav">
+<li class="active"><a href="index.html">Home</a></li>
+<li class="dropdown"><a href="prices.html" class="dropdown-toggle" datatoggle="dropdown">Category <i class="fa fa-chevron-down"></i></a>
+<div class="dropdown-menu" style="margin-left: -203.625px;">
+<div class="dropdown-inner">
+<ul class="list-unstyled">
+<li><a href="prices.html">Fiction</a></li>
+<li><a href="prices.html">Fantasy</a></li>
+<li><a href="prices.html">Classic</a></li>
+</ul>
+<ul class="list-unstyled">
+<li><a href="prices.html">Non-Fiction</a></li>
+<li><a href="prices.html">Biography</a></li>
+<li><a href="prices.html">Horror</a></li>
+</ul>
+<ul class="list-unstyled">
+<li><a href="prices.html">Spirituality</a></li>
+<li><a href="prices.html">Politics</a></li>
+<li><a href="prices.html">Travel</a></li>
+</ul>
+</div>
+</div>
+</li><li><a href="aboutus.html">About Us</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="header-text">
+<div class="header-text-inner">
+<h1>Rent Read Return Repeat</h1>
+<p>Read What You Love, Love What You Read.</p>
+</div>
+</div>
+<div id="scroll-page-content">
+<a href="#page-content" class="scroller">
+<div class="scroller-button">
+<i class="fa fa-angle-down"></i>
+</div>
+</a>
+</div>
+</div>
+</header>
+<section id="page-content" class="index-page">
+<section class="box-content box-1">
+<div class="">
+<div class="heading wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">
+<h2>Curated List.</h2>
+<hr class="line">
+<div class="intro">Our Collection Of Books is One of the Fineest Collections of Books
+Online. Browse through variety of Genres that Suits your Mood.</div>
+</div>
+<div class="content no-gutter wow fadeIn" data-wow-delay=".1s" data-wow-duration="1s">
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/1.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-box-description">
+<h3 class="product-name">Non-Fiction</h3>
+<p class="product-category">Nonfiction is any document or media content that intends, in
+good faith, to present only truth and accuracy regarding information. Nonfictional content
+may be presented either objectively or subjectively.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/2.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-box-description">
+<h3 class="product-name">Fiction</h3>
+<p class="product-category">Fiction created from the imagination, not presented as fact,
+though it may be based on a true story or situation. It refers to written narratives in prose and
+often specifically novels.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/3.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-box-description">
+<h3 class="product-name">Horror</h3>
+<p class="product-category">For some, it might be ghosts and haunted houses. For others,
+serial killers. For still others, the most frightening things are the ones that go bump in the
+night, unseen. The suspenseful plots take up more mental space.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/4.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-box-description">
+<h3 class="product-name">Travel</h3>
+<p class="product-category">The sheer distances they take our imaginations, and the miles
+they inspire us to hike, drive and fly—those are the things that matter when it comes to these
+books.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/5.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-box-description">
+<h3 class="product-name">Classic</h3><p
+class="product-category">These Books have meant a great deal to readers throughout the
+centuries, and they distinguish themselves as firsts and bests, sure, but also unexpected,
+astonishing, and boundary-breaking additions to the canon.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/6.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-box-description">
+<h3 class="product-name">Romance</h3>
+<p class="product-category">The romance has a lot to offer beyond the bodice-rippers you
+may have seen hiding in your mom's bedside table growing up. Light some candles, unwrap a
+couple chocolates, slip into something silky, and get ready to turn up the heat.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/7.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-box-description">
+<h3 class="product-name">Spirituality</h3>
+<p class="product-category">Some books should be tasted, some devoured, but only a few
+should be chewed and digested thoroughly. Desperate to discover more about this inner world
+of peace, love and joy.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="portfolio-box col-lg-3 col-md-4 col-xs-6">
+<div class="portfolio-box-inner">
+<img src="images/8.jpg" class="img-responsive" alt="">
+<div class="portfolio-box-caption">
+<div class="portfolio-boxdescription">
+<h3 class="productname">Adventure</h3>
+<p class="product-category">Adventure, to put it simply, is the movement from safety to
+danger then back again. In the classic adventure story the adventurer leaves home, encounters
+great hazards, risks horrible death and then eventually returns wiser and/or richer.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text-center"><a href="prices.html" class="btn btn-skin">Explore All</a></div>
+</div>
+</section>
+<section class="box-content box-2 box-style-2">
+<div class="container">
+<h2 style="margin-left: 79px;margin-bottom: 40px;margin-top: 0px;">How to Start Book
+Smithing</h2>
+<div class="row">
+<div class="col-md-8">
+<div class="ft-item wow fadeInLeft" data-wow-delay=".1s" data-wow-duration="1s">
+<div class="row">
+<div class="col-md-1">
+<div class="ft-icon">
+<i class="fa fa-angle-right"></i>
+</div>
+</div>
+<div class="col-md-9">
+<h5>Step 1: Browse the catalogue</h5>
+<p>Traverse through the catalogue; from fiction to horror, from spiritual to romance, from
+adventure to classics we got everything cover. Pick the journey(s) that pleases you, suits your
+current mood or a gift to a loved one.</p>
+</div>
+</div>
+</div>
+<div class="ft-item wow fadeInLeft" data-wow-delay=".1s" data-wowduration="1s">
+<div class="row">
+<div class="col-md-1">
+<div class="ft-icon">
+<i class="fa fa-angle-right"></i>
+</div>
+</div>
+<div class="col-md-9">
+<h5>Step 2: Add to Cart & Pay</h5>
+<p>Made up your mind? All you need to do is add it in the cart and pay through
+our secure payment portal and Voila Book is yours*.It will be delivered to your room within
+2 hours. It can also be collected from the allocated BookSmith store.</p>
+</div>
+</div>
+</div>
+<div class="ft-item wow fadeInLeft" data-wow-delay=".1s" data-wowduration="1s">
+<div class="row">
+<div class="col-md-1">
+<div class="ft-icon">
+<i class="fa fa-angle-right"></i>
+</div>
+</div>
+<div class="col-md-9">
+<h5>Step 3: Easy Return & Refund</h5>
+p>After finishing the book, it is to be returned to the allocated BookSmith store. The balance
+amount* will be transferred to your account immediately as per your convenience through
+online mode.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="ft-b-image wow fadeIn" data-wow-delay=".1s" data-wow-duration="1s">
+<img src="images/iphonex_mockup.png" class="img-responsive">
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="box-content box-3">
+<div class="container">
+<div class="heading wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">
+<h2>Our Services</h2>
+<hr class="line">
+<div class="intro">We Are Absolutely Passionate About Simple Yet Sophisticated User
+Experience That We, And Our Client, Are Very Prood Of</div>
+</div>
+<div class="content wow fadeIn" data-wow-delay=".1s" data-wow-duration="1s">
+<div class="row">
+<div class="col-lg-2 col-md-3 col-sm-6">
+<div class="box-item">
+<img src="images/photo-camera.png" class="img-responsive icon"/>
+<h3>User Friendly</h3>
+</div>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-6">
+<div class="box-item">
+<img src="images/social.png" class="img-responsive icon"/>
+<h3>24X7 Support</h3>
+</div>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-6">
+<div class="box-item">
+<img src="images/seo.png" class="img-responsive icon"/>
+<h3>Fast Delivery</h3>
+</div>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-6">
+<div class="box-item">
+<img src="images/design.png" class="img-responsive icon"/>
+<h3>Low Rates</h3>
+</div>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-6">
+<div class="box-item">
+<img src="images/ux.png" class="img-responsive icon"/>
+<h3>Easy Returns</h3>
+</div>
+</div>
+<div class="col-lg-2 col-md-3 col-sm-6">
+<div class="box-item">
+<img src="images/credit-card.png" class="img-responsive icon"/>
+<h3>Online Payment</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+ <section class="box-content box-6">
+ <div class="container">
+ <div class="heading wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">
+ <h2>Worth Reading Books</h2>
+ <hr class="line">
+ <div class="intro">Hand Picked Best Collection of Books by Experts.</div>
+ </div>
+ <div class="content">
+ <div id="owl-blog" class="owl-carousel">
+ <div class="item">
+ <div class="box-item">
+ <img src="images/10.jpg" class="img-responsive"/>
+ <div class="content">
+ <h3><a href="single.html">Ignited Minds</a></h3>
+<p>I have spoken about the power of imagination. It lies at the heart of creative process and
+is the very substance of life, allied as it is to the power to attract to us what we most desire.
+This power makes all the difference between the winners and losers.</p>
+ <span>APJ Abdul Kalam</span> <br>
+ <a class="btn btn-skin" href="single.html">Know More</a>
+ </div>
+ </div>
+ </div>
+ <div class="item">
+ <div class="box-item">
+ <img src="images/11.jpg" class="img-responsive"/>
+ <div class="content">
+ <h3><a href="single.html">Shoe Dog</a></h3>
+<p>Yes, I thought. Confidence. More than equity, more than liquidity, that’s what a man
+needs. I wished I had more. I wished I could borrow some. But confidence was cash. You had
+to have some to get some. And people were loath to give it to you.</p>
+ <span>Phil Knight-Creator of Nike</span> <br>
+ <a class="btn btn-skin" href="single.html">Know More</a>
+ </div>
+ </div>
+ </div>
+ <div class="item">
+ <div class="box-item">
+ <img src="images/12.jpg" class="img-responsive"/>
+ <div class="content">
+ <h3><a href="single.html">The God of Small Things </a></h3>
+<p>It didn't matter that the story had begun, because Kathakali discovered long ago that the
+secret of the Great Stories is that they have no secrets. The Great Stories are the ones you
+have heard and want to hear again. </p>
+ <span>Arundhati Roy</span> <br>
+ <a class="btn btn-skin" href="single.html">Know More</a>
+ </div>
+ </div>
+ </div>
+ <div class="item">
+ <div class="box-item">
+ <img src="images/13.jpg" class="img-responsive"/>
+ <div class="content">
+ <h3><a href="single.html">The Alchemist</a></h3>
+<p>And that happiness could be found in a grain of sand from the desert, as the Alchemist
+had said. Because the grain of sand is a moment of creation and the universe has taken
+millions of years to create it.”Everyone on earth has a treasure that awaits him,” his heart
+said.</p>
+ <span>Paulo Coelho</span> <br>
+ <a class="btn btn-skin" href="single.html">Know More</a>
+ </div>
+ </div>
+ </div>
+ <div class="item">
+ <div class="box-item">
+ <img src="images/14.jpg" class="img-responsive"/>
+ <div class="content">
+ <h3><a href="single.html">The Discovery of India</a></h3>
+<p>Traditions have to be accepted to a large extent and adapted and transformed to meet new
+conditions and ways of thought, and at the same time new traditions have to built up.</p>
+ <span>Jawaharlal Nehru</span> <br>
+ <a class="btn btn-skin" href="single.html">Know More</a>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ </section>
+<section class="box-content box-5 box-style-3">
+<div class="container">
+<div class="row">
+<div class="box-item wow fadeInDown" data-wow-delay=".1s" data-wow-duration="1s">
+<blockquote><p>Reading is Essential for those who seek to Rise above the Ordinary. – JIM
+ROHN</p></blockquote>
+</div>
+</div>
+</div>
+</section>
+<section class="box-content box-4 box-style-2" style="padding-bottom: 0px;">
+<div class="container">
+<div class="heading wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">
+<h2>What Our Clients Say</h2>
+<hr class="line">
+<div class="intro">With Customer Satisfaction our first priority, this is what our Clients have
+to say.</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="box-item">
+<img src="images/partner1.jpg"
+class="img-responsive icon"/>
+<h3>Adhyan Mahajan</h3>
+<p>When you are tight on budget, this is a site worth using. Their affordable book plans are
+very pocket as well as environment friendly.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="box-item">
+<img src="images/partner2.jpg"
+class="img-responsive icon"/>
+<h3>Nandanni Dubey</h3>
+<p>Booksmith saved me from those terrifying soft copies of books that are a pain to read.
+Thank you, Booksmith for providing the Hard Copies.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="box-item">
+<img src="images/partner3.jpg" class="img-responsive icon"/>
+<h3>Utsav Paliwal</h3>
+<p>It is such a seamless experience to use their service. With 2 Hours delivery and instant
+security refund, they are the best in the business.</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+<div class="box-item">
+<img src="images/partner4.jpg" class="img-responsive icon"/>
+<h3>Harshit Saini</h3>
+<p>I love their idea of renting books at lower prices which helps in saving trees and a step
+towards sustainable development. I recommend it to all.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="box-item">
+<img src="images/partner5.jpg" class="img-responsive icon"/>
+<h3>Harinder Singh</h3>
+<p>The transparency in their Refund Process is what made me a regular customer of
+BookSmith. Best part is instant refund policy of rented books.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="box-item">
+<img src="images/partner6.jpg" class="img-responsive icon"/>
+<h3>Rashika Maan</h3>
+<p>Their weekly plans help me finish my books fast. Trust me, this saves a lot of money and
+keep the natural vibes of books intact.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="box-content box-7 box-style-2" style="padding-top: 0px;">
+<div class="container">
+<div class="heading wow fadeInDown" data-wow-delay=".1s" data-wow-duration="1s">
+<h2>Our Partners</h2>
+<hr class="line">
+<div class="intro">Best in the Education Industries.</div>
+</div>
+<div class="content wow fadeInUp" data-wow-delay=".1s" data-wow-duration="1s">
+<div id="owl-branding" class="owl-carousel">
+<div class="item">
+<img src="images/partner-1.png" class="img-responsive"/>
+</div>
+<div class="item">
+<img src="images/partner-2.png" class="img-responsive"/>
+</div>
+<div class="item">
+<img src="images/partner-3.png" class="img-responsive"/>
+</div>
+<div class="item">
+<img src="images/partner-4.png" class="img-responsive"/>
+</div>
+<div class="item">
+<img src="images/partner-5.png" class="img-responsive"/>
+</div>
+<div class="item">
+<img src="images/partner-6.png" class="img-responsive"/>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<footer id="footer">
+<div class="container">
+<div class="wrap-footer">
+<div class="row">
+<div class="col-md-7">
+<div class="footer-contact-form">
+<h2 class="footer-title">Leave A Message</h2>
+<form name="" method="post"
+action="https://script.google.com/macros/s/AKfycbzyRQZICnWjs9GVqNyl3CY3eNpabx3t
+m-sziz1S7zrFRooBnZDQxTd_/exec">
+<div class="row">
+<div class="col-md-6">
+<div class="form-group">
+<input type="text" class="form-control input-lg" name="name" id="name"
+placeholder="Enter name" required="required" />
+</div>
+<div class="form-group">
+<input type="email" class="form-control input-lg" name="email" id="email"
+placeholder="Enter email" required="required" />
+</div>
+</div>
+<div class="col-md-6">
+<div class="form-group">
+<textarea name="message" id="message" class="form-control" rows="4" cols="25"
+required="required" placeholder="Message" style="height: 190px;"></textarea>
+</div>
+</div>
+</div>
+<a href="index.html">
+<button type="submit" class="btn btn-skin" name="submitcontact"
+id="submitcontact">Submit</button></a>
+</form>
+</div>
+</div>
+<div class="col-md-5">
+<div class="footer-contact-info">
+<div class="contact-info-item">
+<div class="row">
+<div class="col-md-1">
+<div class="contact-info-icon">
+<i class="fa fa-map-marker"></i>
+</div>
+</div>
+<div class="col-md-10">
+<h3>Location</h3>
+<p><a href="https://nith.ac.in/">National Institute of Technology Hamirpur</a></p>
+</div>
+</div>
+</div>
+<div class="contact-info-item">
+<div class="row">
+<div class="col-md-1">
+<div class="contact-info-icon">
+<i class="fa fa-phone"></i>
+</div>
+</div>
+<div class="col-md-10">
+<h3>Phone Number</h3>
+<p> +91-8219445191 , +91-8929467816</p>
+</div>
+</div>
+</div>
+<div class="contact-info-item">
+<div class="row">
+<div class="col-md-1">
+<div class="contact-info-icon">
+<i class="fa fa-envelope"></i>
+</div>
+</div>
+<div class="col-md-10">
+<h3>Email</h3>
+<p>booksmith2k21@gmail.com</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bottom-footer">
+<ul class="list-inline footer-link link">
+<li><a href="#">Facebook</a></li>
+<li><a href="https://www.instagram.com/booksmith2021/">Instagram</a></li>
+<li><a href="#">Twitter</a></li>
+</ul>
+<div class="copyright">
+<span>Copyright © 2021 - BookSmith All rights Reserved </span> <a href="t&c.html"
+target="_blank">Click Here to know T&C.</a>
+</div>
+</div>
+</div>
+</footer>
+<div id="page-top"><a href="#page-top" class="btn btn-toTop"><i class="fa fa-angledouble-up"></i></a></div>
+<script src="js/jquery-3.1.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.localScroll.min.js"></script>
+<script src="js/jquery.scrollTo.min.js"></script>
+<script src="js/SmoothScroll.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="owl-carousel/owl.carousel.js"></script>
+<script src="js/main.js"></script>
+</div>
+</body>
+</html>
+}
